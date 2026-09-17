@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**jlebaynham/jlebaynham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work out what a business actually does all day, then automate the boring parts of it.
 
-Here are some ideas to get you started:
+Business analysis first, building second. Most of what I ship is small | one workflow, one tool, one integration that removes a job somebody hates doing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I build
+
+- Email and document workflows that classify, label, draft and chase
+- AI tools where the AI genuinely earns its place, using Claude
+- Integrations between the systems a business already pays for
+- Small web apps on Next.js with Supabase or Xano behind them
+
+Background is business analysis in the UK and Australia, consulting and in-house, plus a stretch in general insurance broking. That last one is why a lot of what I build points at brokers.
+
+## Work with me
+
+- Site: [baynhams.com.au](https://baynhams.com.au)
+- Book a call: [cal.com/baynhams/scoping-call](https://cal.com/baynhams/scoping-call)
+- Email: jon@baynhams.com.au
+
+Based in New South Wales, Australia.
