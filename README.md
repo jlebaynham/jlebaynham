@@ -1,3 +1,5 @@
+<img width="2560" height="480" alt="github-banner" src="https://github.com/user-attachments/assets/3ff2f54f-1c17-49ca-9356-17f0b6123039" />
+
 ## Hi there 👋
 
 I work out what a business actually does all day, then automate the boring parts of it.
