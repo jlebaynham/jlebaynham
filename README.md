@@ -50,28 +50,23 @@ Every email sorted, the urgent ones flagged, replies drafted in your own tone be
 </td>
 <td width="50%" valign="top">
 
-### [Invoice Chaser](https://baynhams.com.au/#products)
-`A$39` `n8n` `Google Sheets`
-
-Overdue invoices chased on a schedule, politely, in your words, until the money lands.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### [Broker Inbox Triage](https://baynhams.com.au/#products)
 `A$79` `n8n` `Gmail`
 
 Broker mail sorted by what it actually is: renewal, claim, certificate request, endorsement. Drafts the routine replies.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### In build
 `Soon`
 
-Enquiry to Spreadsheet, Review Requester, Quote Follow-up, and the full pack of all five together.
+Enquiry to Spreadsheet, Review Requester, Quote Follow-up, and the full pack of all four together.
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -81,13 +76,13 @@ Enquiry to Spreadsheet, Review Requester, Quote Follow-up, and the full pack of 
 
 ## How I got here
 
-Business analysis. UK and Australia, consulting and in-house, sitting between the people who do the work and the people who buy the software.
-
-More recently I co-founded an insurance software platform and built it as CTO.
+Ten years in business analysis, UK and Sydney, ex-KPMG. Working out what a system needs to do, then learning to build it myself.
 
 The pattern was always the same. Write the requirements, hand them over, wait months, watch half of it arrive. Meanwhile the person doing the job is still copying an email into a spreadsheet.
 
 **So now I build it myself.** The analyst half works out what a thing needs to do. The builder half makes it.
+
+Since then I have shipped a multi-tenant SaaS platform and a line of automation products.
 
 > *"The analyst's questions. The builder's hands."*
 
