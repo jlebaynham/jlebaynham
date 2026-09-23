@@ -2,17 +2,17 @@
 
 <div align="center">
 
-### Creativity & Code
+### Find the problem. Build the fix
 
-**I build small software and put it out into the world**
+**Business analyst who automates**
 
-Based in New South Wales, Australia. Some of it is free, some of it is paid, all of it does one job properly.
+Automation for small businesses, with AI only where it's actually needed. Based in New South Wales, Australia.
 
 [![Website](https://img.shields.io/badge/baynhams.com.au-FB5536?style=for-the-badge&logo=safari&logoColor=white)](https://baynhams.com.au)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jlebaynham/)
 [![Email](https://img.shields.io/badge/jon@baynhams.com.au-181717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jon@baynhams.com.au)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FB5536&center=true&vCenter=true&repeat=true&width=750&height=55&lines=Find+the+job+%E2%9C%A6+Build+the+tool+%E2%9C%A6+Ship+it" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FB5536&center=true&vCenter=true&repeat=true&width=750&height=55&lines=Find+the+problem+%E2%9C%A6+Build+the+fix+%E2%9C%A6+Automate+it" alt="Typing SVG" />
 
 </div>
 
@@ -24,24 +24,6 @@ Based in New South Wales, Australia. Some of it is free, some of it is paid, all
 <tr>
 <td width="50%" valign="top">
 
-### [Broker Inbox Triage Lite](https://github.com/jlebaynham/broker-inbox-triage)
-`Free` `n8n` `Gmail`
-
-Classifies and labels a broker inbox. Six nodes, no cost, yours to keep. Admin only, never advice.
-
-</td>
-<td width="50%" valign="top">
-
-### [Inbox Triage Lite](https://baynhams.com.au/#products)
-`Free` `n8n` `Gmail`
-
-The free version of the small business workflow. Classify and label, nothing else.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### [Inbox Triage for Small Business](https://baynhams.com.au/#products)
 `A$29` `n8n` `Gmail`
 
@@ -50,10 +32,10 @@ Every email sorted, the urgent ones flagged, replies drafted in your own tone be
 </td>
 <td width="50%" valign="top">
 
-### [Broker Inbox Triage](https://baynhams.com.au/#products)
-`A$79` `n8n` `Gmail`
+### [Inbox Triage Lite](https://baynhams.com.au/#products)
+`Free` `n8n` `Gmail`
 
-Broker mail sorted by what it actually is: renewal, claim, certificate request, endorsement. Drafts the routine replies.
+The free version. Classify and label, nothing else.
 
 </td>
 </tr>
@@ -63,7 +45,7 @@ Broker mail sorted by what it actually is: renewal, claim, certificate request, 
 ### In build
 `Soon`
 
-Enquiry to Spreadsheet, Review Requester, Quote Follow-up, and the full pack of all four together.
+Enquiry to Spreadsheet, Review Requester and Quote Follow-up.
 
 </td>
 <td width="50%" valign="top">
@@ -80,7 +62,7 @@ Ten years in business analysis, UK and Sydney, ex-KPMG. Working out what a syste
 
 The pattern was always the same. Write the requirements, hand them over, wait months, watch half of it arrive. Meanwhile the person doing the job is still copying an email into a spreadsheet.
 
-**So now I build it myself.** The analyst half works out what a thing needs to do. The builder half makes it.
+**So now I automate it myself.** The analyst half works out what's worth automating. The builder half makes it run.
 
 Since then I have shipped a multi-tenant SaaS platform and a line of automation products.
 
@@ -108,13 +90,13 @@ Since then I have shipped a multi-tenant SaaS platform and a line of automation 
 
 ---
 
-## Also available
+## Work with me
 
-I build for one company at a time. Mostly automations and software development: internal tools, integrations, web apps, AI where it earns its place. Scoped in one call, fixed price before anything starts.
+I automate the repetitive work in small businesses: enquiries logged and followed up, invoices chased, inboxes sorted and replies drafted, and systems kept in sync instead of retyped. Built in n8n around the tools you already use, with AI only where rules can't do the job. Free first call, fixed price before anything starts.
 
 <div align="center">
 
-[![Book a call](https://img.shields.io/badge/Book_a_scoping_call-FB5536?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://cal.com/baynhams/scoping-call)
+[![Book a call](https://img.shields.io/badge/Book_a_free_call-FB5536?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://cal.com/baynhams/scoping-call)
 [![Website](https://img.shields.io/badge/baynhams.com.au-0A0A0A?style=for-the-badge&logo=safari&logoColor=white)](https://baynhams.com.au)
 
 </div>
