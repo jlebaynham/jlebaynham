@@ -111,7 +111,9 @@ Since then I have shipped a multi-tenant SaaS platform and a line of automation 
 ## Work with me
 
 **Automation:** the repetitive admin done for you, built in n8n around the tools you already use.
+
 **AI Agents:** AI that reads, sorts, drafts and answers from your own documents, with a person approving anything that goes out.
+
 **Applications:** internal tools, client portals and customer-facing products when nothing off the shelf fits.
 
 Free first call, fixed price before anything starts.
