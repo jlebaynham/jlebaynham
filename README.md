@@ -4,15 +4,15 @@
 
 ### Find the problem. Build the fix
 
-**Business analyst who automates**
+**Business analyst who builds**
 
-Automation for small businesses, with AI only where it's actually needed. Based in New South Wales, Australia.
+Automation, AI Agents and Applications for small businesses, built by a business analyst. Based in New South Wales, Australia.
 
 [![Website](https://img.shields.io/badge/baynhams.com.au-FB5536?style=for-the-badge&logo=safari&logoColor=white)](https://baynhams.com.au)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jlebaynham/)
 [![Email](https://img.shields.io/badge/jon@baynhams.com.au-181717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jon@baynhams.com.au)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FB5536&center=true&vCenter=true&repeat=true&width=750&height=55&lines=Find+the+problem+%E2%9C%A6+Build+the+fix+%E2%9C%A6+Automate+it" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FB5536&center=true&vCenter=true&repeat=true&width=750&height=55&lines=Find+the+problem+%E2%9C%A6+Build+the+fix+%E2%9C%A6+Ship+it" alt="Typing SVG" />
 
 </div>
 
@@ -24,7 +24,7 @@ Automation for small businesses, with AI only where it's actually needed. Based 
 <tr>
 <td width="50%" valign="top">
 
-### [Inbox Triage for Small Business](https://baynhams.com.au/#products)
+### [Inbox Triage for Small Business](https://baynhams.com.au/work/inbox-triage)
 `A$29` `n8n` `Gmail`
 
 Every email sorted, the urgent ones flagged, replies drafted in your own tone before you sit down.
@@ -32,10 +32,28 @@ Every email sorted, the urgent ones flagged, replies drafted in your own tone be
 </td>
 <td width="50%" valign="top">
 
-### [Inbox Triage Lite](https://baynhams.com.au/#products)
+### [Inbox Triage Lite](https://baynhams.com.au/work/inbox-triage)
 `Free` `n8n` `Gmail`
 
 The free version. Classify and label, nothing else.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Automations inside Unrisq](https://baynhams.com.au/work/unrisq)
+`Paused` `Claude API` `Stripe`
+
+Document analysis, an AI assistant that answers from each account's own documents, and Stripe billing.
+
+</td>
+<td width="50%" valign="top">
+
+### [baynhams.com.au](https://baynhams.com.au/work/baynhams)
+`Next.js` `TypeScript` `Cloudflare`
+
+This site and its client portal, designed, built and deployed solo.
 
 </td>
 </tr>
@@ -58,11 +76,11 @@ Enquiry to Spreadsheet, Review Requester and Quote Follow-up.
 
 ## How I got here
 
-Ten years in business analysis, UK and Sydney, ex-KPMG. Working out what a system needs to do, then learning to build it myself.
+Over ten years across business analysis, data and IT, in the UK and Sydney, ex-KPMG. Working out what a system needs to do, then learning to build it myself.
 
 The pattern was always the same. Write the requirements, hand them over, wait months, watch half of it arrive. Meanwhile the person doing the job is still copying an email into a spreadsheet.
 
-**So now I automate it myself.** The analyst half works out what's worth automating. The builder half makes it run.
+**So now I build it myself.** The analyst half works out what's worth building. The builder half makes it run.
 
 Since then I have shipped a multi-tenant SaaS platform and a line of automation products.
 
@@ -92,7 +110,11 @@ Since then I have shipped a multi-tenant SaaS platform and a line of automation 
 
 ## Work with me
 
-I automate the repetitive work in small businesses: enquiries logged and followed up, invoices chased, inboxes sorted and replies drafted, and systems kept in sync instead of retyped. Built in n8n around the tools you already use, with AI only where rules can't do the job. Free first call, fixed price before anything starts.
+**Automation:** the repetitive admin done for you, built in n8n around the tools you already use.
+**AI Agents:** AI that reads, sorts, drafts and answers from your own documents, with a person approving anything that goes out.
+**Applications:** internal tools, client portals and customer-facing products when nothing off the shelf fits.
+
+Free first call, fixed price before anything starts.
 
 <div align="center">
 
