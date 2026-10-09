@@ -8,9 +8,9 @@
 
 Automation, AI Agents and Applications for small businesses, built by a business analyst. Based in New South Wales, Australia.
 
-[![Website](https://img.shields.io/badge/baynhams.com.au-FB5536?style=for-the-badge&logo=safari&logoColor=white)](https://baynhams.com.au)
+[![Website](https://img.shields.io/badge/baynhams.dev-FB5536?style=for-the-badge&logo=safari&logoColor=white)](https://baynhams.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jlebaynham/)
-[![Email](https://img.shields.io/badge/jon@baynhams.com.au-181717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jon@baynhams.com.au)
+[![Email](https://img.shields.io/badge/jon@baynhams.dev-181717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jon@baynhams.dev)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FB5536&center=true&vCenter=true&repeat=true&width=750&height=55&lines=Find+the+problem+%E2%9C%A6+Build+the+fix+%E2%9C%A6+Ship+it" alt="Typing SVG" />
 
@@ -24,7 +24,7 @@ Automation, AI Agents and Applications for small businesses, built by a business
 <tr>
 <td width="50%" valign="top">
 
-### [Inbox Triage for Small Business](https://baynhams.com.au/work/inbox-triage)
+### [Inbox Triage for Small Business](https://baynhams.dev/#shipped)
 `A$29` `n8n` `Gmail`
 
 Every email sorted, the urgent ones flagged, replies drafted in your own tone before you sit down.
@@ -32,7 +32,7 @@ Every email sorted, the urgent ones flagged, replies drafted in your own tone be
 </td>
 <td width="50%" valign="top">
 
-### [Inbox Triage Lite](https://baynhams.com.au/work/inbox-triage)
+### [Inbox Triage Lite](https://baynhams.dev/#shipped)
 `Free` `n8n` `Gmail`
 
 The free version. Classify and label, nothing else.
@@ -42,7 +42,7 @@ The free version. Classify and label, nothing else.
 <tr>
 <td width="50%" valign="top">
 
-### [Automations inside Unrisq](https://baynhams.com.au/work/unrisq)
+### [Automations inside Unrisq](https://baynhams.dev/#shipped)
 `Paused` `Claude API` `Stripe`
 
 Document analysis, an AI assistant that answers from each account's own documents, and Stripe billing.
@@ -50,7 +50,7 @@ Document analysis, an AI assistant that answers from each account's own document
 </td>
 <td width="50%" valign="top">
 
-### [baynhams.com.au](https://baynhams.com.au/work/baynhams)
+### [baynhams.dev](https://baynhams.dev/#shipped)
 `Next.js` `TypeScript` `Cloudflare`
 
 This site and its client portal, designed, built and deployed solo.
@@ -121,6 +121,6 @@ Free first call, fixed price before anything starts.
 <div align="center">
 
 [![Book a call](https://img.shields.io/badge/Book_a_free_call-FB5536?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://cal.com/baynhams/scoping-call)
-[![Website](https://img.shields.io/badge/baynhams.com.au-0A0A0A?style=for-the-badge&logo=safari&logoColor=white)](https://baynhams.com.au)
+[![Website](https://img.shields.io/badge/baynhams.dev-0A0A0A?style=for-the-badge&logo=safari&logoColor=white)](https://baynhams.dev)
 
 </div>
